@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+This is my Home page.
+{{stu}}<br>
+    {% for i in names %}
+    {{i}}
+    {% endfor %}
+{% endblock %}
