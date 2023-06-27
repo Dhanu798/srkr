@@ -1,2 +1,2 @@
-# srkr
-srkr fullstack
+# SRKR
+SRKR_fullstsck
